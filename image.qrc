@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>thunghang.png</file>
+    <file>logo_truong.png</file>
+    <file>logo_khoa.png</file>
+  </qresource>
+</RCC>
